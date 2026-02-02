@@ -13,7 +13,7 @@ You wear a mask that doesn’t belong to you.
 Some things only exist while you’re wearing it.
 And something in this theater doesn’t want the play to be ready.
 
-Controls:
+# Controls:
 
 WASD - Move
 
@@ -28,7 +28,7 @@ Q - Show/Hide instructions
 R - Engine Skillcheck
 
 
-Team:
+# Team:
 
 Biel Aparicio Torné
 
