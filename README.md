@@ -2,19 +2,43 @@
 
 Valcour's theater is a short game for the 2026 Global Game Jam, where me and 5 other people, partnered together to create a first person horror game.
 
-You must complete the objetives that you are given whilst avoiding a monster that wanders around. WIll you be able to complete it or will you succumb to the monster's wrath? Don't get too scared....
+You have been hired to prepare a stage in a theater that has been closed for years.
+No one comes anymore, but the work must be done.
 
-CONTROLS:
+Your task is to complete a series of stage-preparation duties to get the play ready. Move props, arrange the space, and finish what was left unfinished.
 
-SpaceBar for the mask 
+The Valcour Theater was abandoned after its last performance, when the lead actor disappeared in front of the audience. Since then, something lingers backstage.
 
-Q - Objectives
+You wear a mask that doesn’t belong to you.
+Some things only exist while you’re wearing it.
+And something in this theater doesn’t want the play to be ready.
 
-E -  Spam the lever
+Controls:
 
-R - Generator Skill Check
+WASD - Move
 
-WASD - Movement
+SPACE - Use mask
 
-Shift - Run
+L_SHIFT - Run
+
+E - Interact with crank
+
+Q - Show/Hide instructions
+
+R - Engine Skillcheck
+
+
+Team:
+
+Biel Aparicio Torné
+
+Judith Codina Menea
+
+Laia Tuyà Penas
+
+Levi Barahona Huete
+
+Nathan Collado Brun
+
+Xavier Ferré Contreras
 
